@@ -1,12 +1,13 @@
-# React + Vite
+Shiritori Game
+attempted by Anannyo Hridi Deep
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+gonna admit I was sloppy after not coding for a while and not using AI. I couldn't fix all the bugs but did try implementing all the features. Good Experience.
+Pray I get better and finally get a job!
+Assalamualaikum.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I used a card component twice for the two players.
+No backend implemented.
+Player turn and the last character is shared between the component through props. Not at all how it should be! using a state  manager or context provider would have been much better.
+rest seems okay.
+Oh, forgot about the timer.
+Thank you for your time.
